@@ -8,8 +8,7 @@ This folder contains **5 mini-projects** designed to practice **Tailwind CSS uti
 
 ### 1. Email Subscribe Card
 
-![Email Subscribe Card](email-subscribe/images/email-subscribe.png)
-<img src="(email-subscribe/images/email-subscribe.png" alt="Email Subscribe Card"  style="width: 50%; border: 1px solid #ccc;">
+<img src="email-subscribe/images/email-subscribe.png" alt="Email Subscribe Card"  style="width: 50%; border: 1px solid #ccc;">
 
 A responsive subscription card featuring an input field and a styled button, designed with Tailwind CSS.
 
