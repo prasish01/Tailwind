@@ -1,35 +1,40 @@
-Mini Projects Folder
+# Mini Projects Folder
 
-This folder contains 5 mini-projects designed to practice Tailwind CSS utilities and components:
+This folder contains **5 mini-projects** designed to practice **Tailwind CSS utilities and components**.
 
-Included Mini Projects
+---
 
-Email Subscribe Card
+## Included Mini Projects
+
+### 1. Email Subscribe Card
 
 ![Email Subscribe Card](email-subscribe/images/email-subscribe.png)
+<img src="(email-subscribe/images/email-subscribe.png" alt="Email Subscribe Card"  style="width: 50%; border: 1px solid #ccc;">
 
-A responsive subscription card with input and button elements styled using Tailwind.
+A responsive subscription card featuring an input field and a styled button, designed with Tailwind CSS.
 
-Pricing Card
+---
 
-A clean and modern pricing card component with responsive support.
+### 2. Pricing Card
 
-Product Modal
+A clean and modern pricing card component with responsive design support. Perfect for showcasing product or service pricing.
 
-A modal popup showcasing product details with Tailwind styling.
+---
 
-Login Modal
+### 3. Product Modal
 
-A user-friendly login modal designed for form validation practice.
+A modal popup designed to display product details with Tailwind CSS styling.
 
-Image Gallery
+---
 
-A responsive image gallery demonstrating Tailwind’s grid utilities.
+### 4. Login Modal
 
-How to Run
+A user-friendly login modal, ideal for practicing form validation and responsive design.
 
-Open each project folder and preview the index.html file in your browser.
+---
 
-Modify Tailwind classes to experiment with designs and responsiveness.
+### 5. Image Gallery
 
-These mini-projects are great for mastering core Tailwind features, including flexbox, grid, spacing, typography, and responsiveness.
+A responsive image gallery utilizing Tailwind's powerful grid utilities.
+
+---
