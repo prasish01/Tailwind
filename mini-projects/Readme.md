@@ -15,6 +15,7 @@ A responsive subscription card featuring an input field and a styled button, des
 ---
 
 ### 2. Pricing Card
+<img src="pricing-cards/images/pricing-cards.png" alt="Pricing Cards"  style="width: 50%; ">
 
 A clean and modern pricing card component with responsive design support. Perfect for showcasing product or service pricing.
 
