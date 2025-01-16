@@ -15,6 +15,7 @@ A responsive subscription card featuring an input field and a styled button, des
 ---
 
 ### 2. Pricing Card
+
 <img src="pricing-cards/images/pricing-cards.png" alt="Pricing Cards"  style="width: 50%; ">
 
 A clean and modern pricing card component with responsive design support. Perfect for showcasing product or service pricing.
@@ -22,6 +23,8 @@ A clean and modern pricing card component with responsive design support. Perfec
 ---
 
 ### 3. Product Modal
+
+<img src="product-modal/images/product-modal.png" alt="Product Modal"  style="width: 50%; ">
 
 A modal popup designed to display product details with Tailwind CSS styling.
 
